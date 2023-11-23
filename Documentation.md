@@ -532,7 +532,7 @@ logging.basicConfig(filename="output.log", filemode="w")
 ```
 
 *custom logging*
-![custom logging](Desktop\Screenshot.png)
+![custom logging](./screenshots/screenshot.png)
 ```python
 import logging
 
